@@ -1,0 +1,22 @@
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\bin\Debug\CompoundAssignments.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\bin\Debug\CompoundAssignments.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.CompoundAssignments.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.csproj.GenerateResource.Cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.pdb
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.exe
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.pdb
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\bin\Debug\CompoundAssignments.exe
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\bin\Debug\CompoundAssignments.pdb
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.CompoundAssignments.resources
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.Properties.Resources.resources
+\\beam\~\My Documents\Visual Studio 2010\Projects\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.csproj.GenerateResource.Cache
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.exe
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.pdb
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\bin\Debug\CompoundAssignments.exe
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\bin\Debug\CompoundAssignments.pdb
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.CompoundAssignments.resources
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.Properties.Resources.resources
+C:\Users\fred6410\Desktop\My Code Samples\CompoundAssignments_Homework\CompoundAssignments_Homework\CompoundAssignments\obj\Debug\CompoundAssignments.csproj.GenerateResource.Cache

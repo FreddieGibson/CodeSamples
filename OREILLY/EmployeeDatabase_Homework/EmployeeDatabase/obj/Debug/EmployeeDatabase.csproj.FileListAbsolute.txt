@@ -1,0 +1,19 @@
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.EmployeeDatabase.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.EmployeeDatabase.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.EmployeeForm.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\fred6410\Desktop\My Code Samples\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\fred6410\Desktop\My Code Samples\EmployeeDatabase_Homework\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb

@@ -1,0 +1,9 @@
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\bin\Debug\MyShoes.exe
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\bin\Debug\MyShoes.pdb
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\obj\Debug\MyShoes.MyShoes.resources
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\obj\Debug\MyShoes.Properties.Resources.resources
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\obj\Debug\MyShoes.csproj.GenerateResource.Cache
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\obj\Debug\MyShoes.exe
+\\beam\~\My Documents\Visual Studio 2010\Projects\MyShoes_Homework\MyShoes_Homework\myshoes\obj\Debug\MyShoes.pdb
+C:\Users\fred6410\Desktop\My Code Samples\MyShoes_Homework\MyShoes_Homework\MyShoes\obj\Debug\MyShoes.exe
+C:\Users\fred6410\Desktop\My Code Samples\MyShoes_Homework\MyShoes_Homework\MyShoes\obj\Debug\MyShoes.pdb

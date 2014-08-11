@@ -1,0 +1,30 @@
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\bin\Debug\Boxing.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\bin\Debug\Boxing.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\obj\Debug\Boxing.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\obj\Debug\Boxing.Boxing.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\obj\Debug\Boxing.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\obj\Debug\Boxing.csproj.GenerateResource.Cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\obj\Debug\Boxing.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing\Boxing\obj\Debug\Boxing.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\obj\Debug\Boxing.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\obj\Debug\Boxing.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\bin\Debug\Boxing.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\bin\Debug\Boxing.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\obj\Debug\Boxing.Boxing.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\obj\Debug\Boxing.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Boxing_Homework\Boxing\obj\Debug\Boxing.csproj.GenerateResource.Cache
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\obj\Debug\Boxing.exe
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\obj\Debug\Boxing.pdb
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\bin\Debug\Boxing.exe
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\bin\Debug\Boxing.pdb
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\obj\Debug\Boxing.Boxing.resources
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\obj\Debug\Boxing.Properties.Resources.resources
+\\beam\~\My Documents\Visual Studio 2010\Projects\Boxing_Homework\Boxing_Homework\boxing\obj\Debug\Boxing.csproj.GenerateResource.Cache
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\obj\Debug\Boxing.exe
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\obj\Debug\Boxing.pdb
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\bin\Debug\Boxing.exe
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\bin\Debug\Boxing.pdb
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\obj\Debug\Boxing.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\obj\Debug\Boxing.Boxing.resources
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\obj\Debug\Boxing.Properties.Resources.resources
+C:\Users\fred6410\Desktop\My Code Samples\Boxing_Homework\Boxing_Homework\Boxing\obj\Debug\Boxing.csproj.GenerateResource.Cache

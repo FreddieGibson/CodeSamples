@@ -1,0 +1,28 @@
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\bin\Debug\Alarms.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\bin\Debug\Alarms.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.MainForm.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.csproj.GenerateResource.Cache
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms\Alarms\obj\Debug\Alarms.AlarmForm.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\bin\Debug\Alarms.exe
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\bin\Debug\Alarms.pdb
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.AlarmForm.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.MainForm.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.Properties.Resources.resources
+C:\Users\fred6410\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.csproj.GenerateResource.Cache
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.exe
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.pdb
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\bin\Debug\Alarms.exe
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\bin\Debug\Alarms.pdb
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.csprojResolveAssemblyReference.cache
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.AlarmForm.resources
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.MainForm.resources
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.Properties.Resources.resources
+C:\Users\Freddie Gibson\Dropbox\OReilly\CSharp\Alarms_Homework\Alarms\obj\Debug\Alarms.csproj.GenerateResource.Cache
+C:\Users\fred6410\Desktop\Alarms_Homework\Alarms\obj\Debug\Alarms.exe
+C:\Users\fred6410\Desktop\Alarms_Homework\Alarms\obj\Debug\Alarms.pdb
