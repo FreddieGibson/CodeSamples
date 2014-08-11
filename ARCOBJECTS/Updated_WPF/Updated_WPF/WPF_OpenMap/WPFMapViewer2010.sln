@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMapViewer2010", "WPFMapViewer2010.csproj", "{0B519FE6-F983-4E02-962A-14D27E0D1338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBrowserApp", "WpfBrowserApp\WpfBrowserApp.csproj", "{5719C46E-2961-4F4B-82D9-F35C3D065799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMapWrapper", "..\WPFMapWrapper\WPFMapWrapper.csproj", "{FCA836DB-D195-4AFD-953F-16A6F80C1837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Debug|x86.ActiveCfg = Debug|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Debug|x86.Build.0 = Debug|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Release|Any CPU.ActiveCfg = Release|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Release|x86.ActiveCfg = Release|x86
+		{0B519FE6-F983-4E02-962A-14D27E0D1338}.Release|x86.Build.0 = Release|x86
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Debug|x86.Build.0 = Debug|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5719C46E-2961-4F4B-82D9-F35C3D065799}.Release|x86.ActiveCfg = Release|Any CPU
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Debug|x86.Build.0 = Debug|Any CPU
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Release|Any CPU.ActiveCfg = Release|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Release|x86.ActiveCfg = Release|x86
+		{FCA836DB-D195-4AFD-953F-16A6F80C1837}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

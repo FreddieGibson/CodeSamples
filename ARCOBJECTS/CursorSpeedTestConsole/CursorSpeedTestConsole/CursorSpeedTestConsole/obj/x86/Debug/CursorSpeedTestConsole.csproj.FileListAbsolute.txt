@@ -1,0 +1,24 @@
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\CursorSpeedTestConsole.exe
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\CursorSpeedTestConsole.pdb
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.exe
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.pdb
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.dbf
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.prj
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.sbn
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.sbx
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.shp
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.shx
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.csprojResolveAssemblyReference.cache
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.exe
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.pdb
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.dbf
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.prj
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.sbn
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.sbx
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.shp
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\data\Streets.shx
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\CursorSpeedTestConsole.exe
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\bin\Debug\CursorSpeedTestConsole.pdb
+C:\Uzumaki\Incidents\1253984_Cursor\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\My Code Samples\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.exe
+C:\Users\fred6410\Desktop\My Code Samples\CursorSpeedTestConsole\CursorSpeedTestConsole\CursorSpeedTestConsole\obj\x86\Debug\CursorSpeedTestConsole.pdb

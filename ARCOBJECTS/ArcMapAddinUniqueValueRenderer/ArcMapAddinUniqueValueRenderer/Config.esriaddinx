@@ -1,0 +1,29 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ArcMapAddinUniqueValueRenderer</Name>
+  <AddInID>{a1f697b9-d2f5-4419-8ce4-4f20e9ffa478}</AddInID>
+  <Description>Test IDataStatistics</Description>
+  <Version>1.0</Version>
+  <Image>Images\ArcMapAddinUniqueValueRenderer.png</Image>
+  <Author>Freddie G</Author>
+  <Company>esri</Company>
+  <Date>2/14/2014</Date>
+  <Targets>
+    <Target name="Desktop" version="10.2" />
+  </Targets>
+  <AddIn language="CLR4.0" library="ArcMapAddinUniqueValueRenderer.dll" namespace="ArcMapAddinUniqueValueRenderer">
+    <ArcMap>
+      <Commands>
+        <Button id="esri_ArcMapAddinUniqueValueRenderer_UniqueValueRenderer" class="UniqueValueRenderer" message="Unique Value Renderer" caption="Unique Value Renderer" tip="Unique Value Renderer" category="Add-In Controls" image="Images\UniqueValueRenderer.png" />
+        <Button id="esri_ArcMapAddinUniqueValueRenderer_UniqueValueRendererUserData" class="UniqueValueRendererUserData" message="UV Renderer User Data" caption="UV Renderer User Data" tip="UV Renderer User Data" category="Add-In Controls" image="Images\UniqueValueRendererUserData.png" />
+      </Commands>
+      <Toolbars>
+        <Toolbar id="esri_ArcMapAddinUniqueValueRenderer_UV_Tools" caption="UV Tools" showInitially="true">
+          <Items>
+            <Button refID="esri_ArcMapAddinUniqueValueRenderer_UniqueValueRenderer" />
+            <Button refID="esri_ArcMapAddinUniqueValueRenderer_UniqueValueRendererUserData" separator="true" />
+          </Items>
+        </Toolbar>
+      </Toolbars>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

@@ -1,0 +1,7 @@
+C:\Uzumaki\Incidents\1247635_MemoryUsage\MemUsageConsole\MemUsageConsole\bin\Debug\MemUsageConsole.exe
+C:\Uzumaki\Incidents\1247635_MemoryUsage\MemUsageConsole\MemUsageConsole\bin\Debug\MemUsageConsole.pdb
+C:\Uzumaki\Incidents\1247635_MemoryUsage\MemUsageConsole\MemUsageConsole\obj\x86\Debug\MemUsageConsole.exe
+C:\Uzumaki\Incidents\1247635_MemoryUsage\MemUsageConsole\MemUsageConsole\obj\x86\Debug\MemUsageConsole.pdb
+C:\Uzumaki\Incidents\1247635_MemoryUsage\MemUsageConsole\MemUsageConsole\obj\x86\Debug\MemUsageConsole.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\My Code Samples\MemUsageConsole\MemUsageConsole\obj\x86\Debug\MemUsageConsole.exe
+C:\Users\fred6410\Desktop\My Code Samples\MemUsageConsole\MemUsageConsole\obj\x86\Debug\MemUsageConsole.pdb

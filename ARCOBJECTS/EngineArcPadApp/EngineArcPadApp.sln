@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineArcPadApp", "EngineArcPadApp\EngineArcPadApp.csproj", "{AC99217A-11A4-4E91-8F89-6DAE21F330E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineConsoleSimpleArcObjectsRepro", "EngineConsoleSimpleArcObjectsRepro\EngineConsoleSimpleArcObjectsRepro.csproj", "{BA78219B-37C1-4756-94B9-83A1B11B18F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritePythonScripts", "WritePythonScripts\WritePythonScripts.csproj", "{FFAAA4F0-1078-47FE-957B-FE770086A65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Debug|x86.ActiveCfg = Debug|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Debug|x86.Build.0 = Debug|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Release|Any CPU.ActiveCfg = Release|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Release|Mixed Platforms.Build.0 = Release|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Release|x86.ActiveCfg = Release|x86
+		{AC99217A-11A4-4E91-8F89-6DAE21F330E4}.Release|x86.Build.0 = Release|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Debug|x86.ActiveCfg = Debug|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Debug|x86.Build.0 = Debug|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Release|Any CPU.ActiveCfg = Release|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Release|x86.ActiveCfg = Release|x86
+		{BA78219B-37C1-4756-94B9-83A1B11B18F8}.Release|x86.Build.0 = Release|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Debug|x86.ActiveCfg = Debug|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Debug|x86.Build.0 = Debug|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Release|Any CPU.ActiveCfg = Release|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Release|x86.ActiveCfg = Release|x86
+		{FFAAA4F0-1078-47FE-957B-FE770086A65A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

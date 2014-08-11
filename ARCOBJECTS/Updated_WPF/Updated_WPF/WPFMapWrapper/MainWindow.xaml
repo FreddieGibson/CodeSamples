@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPFMapWrapper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" MinHeight="350" MinWidth="525"
+        xmlns:my="clr-namespace:WPFMapViewer;assembly=WPFMapViewer">
+    <Grid>
+        <my:MapUserControl></my:MapUserControl>
+    </Grid>
+</Window>

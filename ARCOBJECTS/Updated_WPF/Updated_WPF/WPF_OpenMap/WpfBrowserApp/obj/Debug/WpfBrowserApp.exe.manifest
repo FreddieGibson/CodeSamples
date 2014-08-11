@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="WpfBrowserApp.exe" version="1.0.0.0" publicKeyToken="5a31255492c92c05" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="WpfBrowserApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="WpfBrowserApp.exe" parameters="" />
+    <hostInBrowser xmlns="urn:schemas-microsoft-com:asm.v3" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="Internet" Description="Default rights given to Internet applications" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.3DAnalyst" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.ADF.Local" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Animation" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.AxControls" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Carto" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Controls" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.DataSourcesFile" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.DataSourcesNetCDF" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.DataSourcesRaster" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Display" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.GeoAnalyst" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Geodatabase" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.GeoDatabaseDistributed" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.GeoDatabaseExtensions" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Geometry" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Geoprocessing" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Geoprocessor" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.GISClient" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.GlobeCore" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.NetworkAnalyst" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Output" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Server" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.SpatialAnalystTools" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.System" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.SystemUI" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ESRI.ArcGIS.Version" version="10.0.0.0" publicKeyToken="8FC3CC631E44AD86" language="neutral" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WpfBrowserApp.exe" size="16384">
+      <assemblyIdentity name="WpfBrowserApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>vv2tv48QLpT/QESJzmJ3cS6WjEg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WPFMapViewer.exe" size="25088">
+      <assemblyIdentity name="WPFMapViewer" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>ycQKqSS3rg47Tu3Uq8o8zlc6314=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="WpfBrowserApp.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cpzNzlRjZspwKGLNlX6RAlU3880=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=CT\geea" issuerKeyHash="82d271463e7e1f19e29beb7bf910182a3d0c96f4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>RysZ1I7fkzdQA9carERv7xHIiGE=</DigestValue></Reference></SignedInfo><SignatureValue>ka1YXh8+UK5msSz27DHZfLgS2li2lLz73FmnuG1aG2k9Wh6yKhQ6zuxNo0hCbEu52Ryqo+H4cvu6GeFhcQhVK5WDzv6uF3V55q6ZDwSqADlK83+SifWk4pJ0IWE57B+7E7gnBuX03djI3XPuJEWKOBU3FC6ShENTWyuMP8OeU50=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uFXpxmNkG+sWXpNy7t22ArU+xppodKr+7GMDOuU+QlTjiRZV5BhqeNgvO3SreH+jAM73safO1BkRH5FE2047VTv+tdUv7zLOhjvUvrKFkM9oIjchkFisWvJzrjsX34PllFkYMWEDvyhsNT+NnQC6hmCjxvEaEh8tpEi0zElWK68=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6188c811ef6f44ac1ad703503793df8ed4192b47" Description="" Url=""><as:assemblyIdentity name="WpfBrowserApp.exe" version="1.0.0.0" publicKeyToken="5a31255492c92c05" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CT\geea</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>yjv+nn9zUic0qzL7LtdXUpS/t1k=</DigestValue></Reference></SignedInfo><SignatureValue>oia99E363mMApa/f0smuTXtcykAjwGV7eQ2kFGyRGa3+8DjgwXvV73VgKR9JjM2l6GlqliZVGY2QPaFYjQkDnOhCI4dNTSLXv36a5wrk8Pgd5YswdgeyIaPmIG+y0ocvt44z9i1QBYwZ2/qDM7wE8ShyfnSRxoPU38INzqegKpw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uFXpxmNkG+sWXpNy7t22ArU+xppodKr+7GMDOuU+QlTjiRZV5BhqeNgvO3SreH+jAM73safO1BkRH5FE2047VTv+tdUv7zLOhjvUvrKFkM9oIjchkFisWvJzrjsX34PllFkYMWEDvyhsNT+NnQC6hmCjxvEaEh8tpEi0zElWK68=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBtTCCAR6gAwIBAgIQfqP56emHNqJKFSoalmOnJTANBgkqhkiG9w0BAQUFADAZMRcwFQYDVQQDHg4AQwBUAFwAZwBlAGUAYTAeFw0xNDA2MDMyMjU2MjFaFw0xNTA2MDQwNDU2MjFaMBkxFzAVBgNVBAMeDgBDAFQAXABnAGUAZQBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4VenGY2Qb6xZek3Lu3bYCtT7Gmmh0qv7sYwM65T5CVOOJFlXkGGp42C87dKt4f6MAzvexp87UGREfkUTbTjtVO/611S/vMs6GO9S+soWQz2giNyGQWKxa8nOuOxffg+WUWRgxYQO/KGw1P42dALqGYKPG8RoSHy2kSLTMSVYrrwIDAQABMA0GCSqGSIb3DQEBBQUAA4GBALesvyN+bhk/yYQTrWR+rmvT/3rogLRsKsjbYKkMOpuh/QbuzEkHkRduZXz0x+Cg9/1v3qAIcZiOs6TecER5rpiSG5vZjc8Oi51uBEHtPbPYvfd23+88jpT3e5YkEHT5lF1I8pi9xZY5R/2TYFojLcyn7cCnvNGgV9Vd0Iq8cAJI</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

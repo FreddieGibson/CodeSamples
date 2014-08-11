@@ -1,0 +1,12 @@
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp.csprojResolveAssemblyReference.cache
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\MapWindow.baml
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\Page1.baml
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\MapWindow.g.cs
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\Page1.g.cs
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\App.g.cs
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp_MarkupCompile.cache
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp.g.resources
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp.Properties.Resources.resources
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp.csproj.GenerateResource.Cache
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp.exe
+C:\Users\geea\Desktop\random dev\CWATER\ESRI ticket\WPF_OpenMap\WPF_OpenMap\WpfBrowserApp\obj\x86\Debug\WpfBrowserApp.pdb

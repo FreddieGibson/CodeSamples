@@ -1,0 +1,30 @@
+<Window x:Class="WPFMapViewer.MapWindow"
+    x:Name="MyWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Height="600" Width="840" Background="Beige"
+    MaxHeight="600" MaxWidth="840"
+    xmlns:my="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration">
+    <Grid>
+        <TabControl x:Name="MyTabControl" HorizontalAlignment="Left" Height="569" VerticalAlignment="Top" Width="832">
+            <TabItem x:Name="TabItemA" Header="Preferences" HorizontalAlignment="Right" Width="77.357">
+                <Button x:Name="OpenMapButton" Margin="25" Content="Open Map" FontSize="125" Click="OpenMapButton_OnClick"/>    
+            </TabItem>
+            <TabItem x:Name="TabItemB" Header="Map Control">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="87*"/>
+                        <ColumnDefinition Width="13*"/>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="716*"/>
+                    </Grid.ColumnDefinitions>
+                    <WindowsFormsHost x:Name="MapHost" Margin="63,30,0,24.888" Grid.Column="3" />
+                    <WindowsFormsHost Margin="0,30,0,24.888" x:Name="TocHost" HorizontalAlignment="Left" Width="173" Grid.ColumnSpan="4" />
+                    <WindowsFormsHost Height="30" x:Name="ToolbarHost" VerticalAlignment="Top" Grid.ColumnSpan="4" />
+                    <TextBlock Height="24.888" VerticalAlignment="Bottom" x:Name="TextBlock1" Foreground="DarkRed" Margin="0,0,10,0" Grid.ColumnSpan="4"><Run Text="Double click map to start Geoprocessing..."/></TextBlock>
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+    </Grid>
+</Window>

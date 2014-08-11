@@ -1,0 +1,30 @@
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\bin\Release\data\USA State Plane Zones.lpk
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\bin\Release\data\World Cities.lpk
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\bin\Release\WPFMapViewer.exe
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\bin\Release\WPFMapViewer.pdb
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\MapWindow.baml
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\MapWindow.g.cs
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\App.g.cs
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer_Content.g.cs
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer_MarkupCompile.cache
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer.g.resources
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer.Properties.Resources.resources
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer2010.csproj.GenerateResource.Cache
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer.exe
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer.pdb
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPFMapViewer\obj\x86\Release\WPFMapViewer2010.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer.exe
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer.pdb
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\bin\Release\data\USA State Plane Zones.lpk
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\bin\Release\data\World Cities.lpk
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\bin\Release\WPFMapViewer.exe
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\bin\Release\WPFMapViewer.pdb
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer2010.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\MapWindow.baml
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\MapWindow.g.cs
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\App.g.cs
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer_Content.g.cs
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer_MarkupCompile.cache
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer.g.resources
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer.Properties.Resources.resources
+C:\Users\fred6410\Desktop\1266534_SplineBarriers\WPF_OpenMap\obj\x86\Release\WPFMapViewer2010.csproj.GenerateResource.Cache
