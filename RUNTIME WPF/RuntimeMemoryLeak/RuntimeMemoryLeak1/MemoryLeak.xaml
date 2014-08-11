@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="RuntimeMemoryLeak1.MemoryLeak"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:esri="http://schemas.esri.com/arcgis/client/2009"
+             mc:Ignorable="d" 
+             d:DesignWidth="700" d:DesignHeight="500">
+    <Grid x:Name="LayoutRoot">
+        <Grid.Resources>
+            <Style x:Key="ComboStyle" TargetType="{x:Type ComboBox}">
+                <Setter Property="HorizontalContentAlignment" Value="Right" />
+                <Setter Property="VerticalContentAlignment" Value="Center"/>
+            </Style>
+        </Grid.Resources>
+
+        <esri:Map x:Name="MyMap" UseAcceleratedDisplay="True" WrapAround="True">
+            <esri:ArcGISTiledMapServiceLayer ID="World Topo Map" Url="http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer"/>
+            <esri:GraphicsLayer ID="MyGraphicsLayer" />
+        </esri:Map>
+
+        <Grid HorizontalAlignment="Left" VerticalAlignment="Top" Margin="15,15,15,0" Width="275">
+            <Rectangle Fill="White" Stroke="Gray"  Margin="0,0,0,5">
+                <Rectangle.Effect>
+                    <DropShadowEffect/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Rectangle Fill="#DDFFFFFF" Stroke="DarkGray" Margin="5,5,5,10" />
+            <StackPanel Orientation="Vertical" Margin="10,10,10,10" HorizontalAlignment="Left" >
+                <TextBlock Text="Use the options below to change the number of satellites and the update speed of the satellites." 
+					TextWrapping="Wrap" HorizontalAlignment="Center" Foreground="Black" Margin="5,0,5,0"/>
+                <StackPanel Orientation="Horizontal" Margin="5,0,5,0" HorizontalAlignment="Left" >
+                    <TextBlock Width="155" VerticalAlignment="Stretch" Foreground="Black" Margin="5,5,5,0"><Run Text="Number of Satellites:"/></TextBlock>
+                    <ComboBox x:Name="NumberOfSatellites" Height="auto" Width="75" Style="{StaticResource ComboStyle}" Margin="0,5,5,5" SelectionChanged="NumberOfSatellites_OnSelectionChanged" />                    
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+        <Button x:Name="GcButton" Click="GcButton_OnClick" Content="Collect" HorizontalAlignment="Left" Margin="15,120,0,0" VerticalAlignment="Top" Width="120" Height="49"/>
+
+    </Grid>
+</UserControl>

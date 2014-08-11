@@ -1,0 +1,40 @@
+﻿<Window x:Class="BufferPoints.MainWindow"
+     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:esri="http://schemas.esri.com/arcgis/client/2009"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="LayoutRoot">
+      <Grid.Resources>
+            <esri:SimpleMarkerSymbol x:Key="DefaultClickSymbol" Color="Red" Size="16" Style="Cross" Angle="45"/>
+            <esri:SimpleLineSymbol x:Key="DashSymbol" Color="Red" Style="Dash" Width="4"/>
+            <esri:SimpleLineSymbol x:Key="DashDotSymbol" Color="Green" Style="DashDot" Width="4" />
+            <esri:SimpleLineSymbol x:Key="DashDotDotSymbol" Color="Blue" Style="DashDotDot" Width="4" />
+            <esri:SimpleLineSymbol x:Key="DotSymbol" Color="Purple" Style="Dot" Width="4" />
+            <esri:SimpleLineSymbol x:Key="SolidSymbol" Color="Black" Style="Solid" Width="4" />
+        </Grid.Resources>
+
+        <esri:Map x:Name="MyMap" UseAcceleratedDisplay="True" Extent="-10863035.970,3838021.340,-10744801.344,3887145.299" MouseClick="MyMap_MouseClick">
+            <!-- ArcGIS Online Tiled Basemap Layer -->
+            <esri:ArcGISTiledMapServiceLayer ID="World Topo Map" Url="http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer"/>
+            <esri:ArcGISLocalFeatureLayer ID="fl" Path="..\Debug\Untitled.mpk" LayerName="Circles" />
+            <esri:GraphicsLayer ID="MyGraphicsLayer" />
+        </esri:Map>
+
+
+        <Grid HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,10,0" >
+            <Rectangle Fill="White" Stroke="Gray"  Margin="0,0,0,5" >
+                <Rectangle.Effect>
+                    <DropShadowEffect/>
+                </Rectangle.Effect>
+            </Rectangle>
+            <Rectangle Fill="#FFFFFFFF" Stroke="DarkGray" Margin="10,10,10,15" />
+            <TextBlock x:Name="InformationTextBlock" Text="Click on map to set a location. Buffers at various distances with various symbols will be created." 
+                       Width="250" TextAlignment="Left" Margin="30,20,25,30" TextWrapping="Wrap" Foreground="Black" />
+        </Grid>
+
+
+    </Grid>
+</Window>
+
+
+

@@ -1,0 +1,142 @@
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\BufferPoints.exe
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\BufferPoints.pdb
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.xml
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\cs\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\da\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\et\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\fi\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\he\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\lt\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\lv\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\pt-PT\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\th\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\tr\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\cs\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\da\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\et\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\fi\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\he\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\lt\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\lv\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\pt-PT\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\th\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\tr\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints.csprojResolveAssemblyReference.cache
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\MainWindow.baml
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\Application.baml
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\MainWindow.g.cs
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\Application.g.cs
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints_MarkupCompile.cache
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints.g.resources
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints.exe
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints.pdb
+C:\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\bin\Debug\Untitled.mpk
+\\freddieg\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints.exe
+\\freddieg\Uzumaki\Incidents\1263117_BufferSymbology\BufferPoints\BufferPoints\obj\Debug\BufferPoints.pdb
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\BufferPoints.exe
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\BufferPoints.pdb
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\Untitled.mpk
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\BufferPoints.exe
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\BufferPoints.pdb
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.xml
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\cs\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\da\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\et\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\fi\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\he\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\lt\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\lv\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\pt-PT\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\th\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\tr\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\cs\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\da\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\et\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\fi\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\he\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\lt\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\lv\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\pt-PT\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\th\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\tr\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\BufferPoints.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\MainWindow.baml
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\Application.baml
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\MainWindow.g.cs
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\Application.g.cs
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\BufferPoints_MarkupCompile.cache
+C:\Users\fred6410\Desktop\My Code Samples\BufferPoints\BufferPoints\obj\Debug\BufferPoints.g.resources

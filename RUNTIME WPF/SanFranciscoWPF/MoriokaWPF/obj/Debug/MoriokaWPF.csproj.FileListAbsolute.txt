@@ -1,0 +1,167 @@
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.csprojResolveAssemblyReference.cache
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MainWindow.baml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\Application.baml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MainWindow.g.cs
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\Application.g.cs
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF_MarkupCompile.cache
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.g.resources
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\MoriokaWPF.exe
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\MoriokaWPF.pdb
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.xml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.exe
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.pdb
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.exe
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.pdb
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\MoriokaWPF.exe
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\MoriokaWPF.pdb
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.xml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.csprojResolveAssemblyReference.cache
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MainWindow.baml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\Application.baml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MainWindow.g.cs
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\Application.g.cs
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF_MarkupCompile.cache
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\New Test Case\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.g.resources
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.exe
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.pdb
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\MoriokaWPF.exe
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\MoriokaWPF.pdb
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.xml
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\cs\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\da\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\et\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\fi\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\he\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\lt\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\lv\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-PT\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\th\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\tr\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\cs\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\da\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\et\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\fi\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\he\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\lt\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\lv\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\pt-PT\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\th\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\tr\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.csprojResolveAssemblyReference.cache
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MainWindow.baml
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\Application.baml
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\Application.g.cs
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF_MarkupCompile.cache
+C:\Users\fred6410\Desktop\SanFranciscoWPF\MoriokaWPF\obj\Debug\MoriokaWPF.g.resources

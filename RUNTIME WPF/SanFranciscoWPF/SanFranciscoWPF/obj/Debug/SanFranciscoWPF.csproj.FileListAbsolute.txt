@@ -1,0 +1,97 @@
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\SanFranciscoWPF.exe
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\SanFranciscoWPF.pdb
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.xml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\MainWindow.baml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\Application.baml
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\MainWindow.g.cs
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\Application.g.cs
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF_MarkupCompile.cache
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.g.resources
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.exe
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.pdb
+E:\Uchiha\Incidents\1158322 - WPF NA Runtime\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.csprojResolveAssemblyReference.cache
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\SanFranciscoWPF.exe
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\SanFranciscoWPF.pdb
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.Local.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.xml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ESRI.ArcGIS.Client.Local.xml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ar\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\de\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\es\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\fr\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\it\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ja\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ko\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nl\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\no\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pl\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ro\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ru\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\sv\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ar\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\de\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\es\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\fr\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\it\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ja\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ko\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nb-NO\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\nl\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\no\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pl\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\pt-BR\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ro\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\ru\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\sv\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-CN\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\bin\Debug\zh-Hans\ESRI.ArcGIS.Client.Local.resources.dll
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\MainWindow.baml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\Application.baml
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\MainWindow.g.cs
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\Application.g.cs
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF_MarkupCompile.cache
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.g.resources
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.exe
+D:\20130527_INCI_1158322_OnWin8_P2P_routing_w_barrier_polygon_generates_parameter_error\20130729_from_ESRI\SanFranciscoWPF\SanFranciscoWPF\obj\Debug\SanFranciscoWPF.pdb
